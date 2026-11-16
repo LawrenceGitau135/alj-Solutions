@@ -26,7 +26,7 @@ export default function About() {
             eyebrow="Who We Are"
             title="Your Long-Term"
             highlight="Technology Partner"
-            intro="ALJ Solutions is a technology engineering and managed services company serving commercial, industrial and institutional clients. We specialise in custom software development, cloud infrastructure, cybersecurity, data & AI, network systems and end-to-end IT support."
+            intro="ALJ Solutions is a technology engineering and management services company serving commercial, industrial and institutional clients. We specialise in custom software development, cloud infrastructure, cybersecurity, data & AI, network systems and end-to-end IT support."
           />
           <p className="reveal mt-5 max-w-2xl text-base leading-relaxed text-slate-300/85">
             Our teams work as an extension of yours — combining verified
