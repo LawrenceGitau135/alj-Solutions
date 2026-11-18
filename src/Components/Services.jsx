@@ -11,13 +11,13 @@ import {
   IconSupport,
 } from "./icons";
 import softwareImage from "../assets/Image/w.p3.jpeg";
-import cloudImage from "../assets/Image/w.p7.webp";
+import cloudImage from "../assets/Image/w.p8.png";
 import securityImage from "../assets/Image/w.p2.jpeg";
-import dataImage from "../assets/Image/w.p.jpeg";
-import networkImage from "../assets/Image/w.p4.jpeg";
+import dataImage from "../assets/Image/w.p.png";
+import networkImage from "../assets/Image/w.p4.png";
 import supportImage from "../assets/Image/w.p6.jpeg";
 import hardwareImage from "../assets/Image/w.p2.jpeg";
-import transformationImage from "../assets/Image/w.p5.jpeg";
+import transformationImage from "../assets/Image/w.p5.png";
 
 const SERVICES = [
   {
